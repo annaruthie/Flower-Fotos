@@ -1,9 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date, Date Photo Taken,
-time, Time Taken
 commonname, Common Name
 scientificname, Scientific Name
-season, Season,
-month, Month,
+date, Date Photo Taken,
+time, Time Taken
