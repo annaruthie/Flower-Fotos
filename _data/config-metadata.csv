@@ -4,3 +4,5 @@ commonname, Common Name
 scientificname, Scientific Name
 date, Date Photo Taken,
 time, Time Taken
+month, Month
+season, Season
