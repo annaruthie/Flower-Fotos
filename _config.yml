@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Flower Fotos
+title: Petal Pictures
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: stop and view the flowers
+tagline: natural photography journal
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of flower, plant, and bug photos taken by me, with the goal of appreciating my surroundings more."
+description: "A collection of my flower, plant, and bug photos, taken to appreciate nature."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Anna Ruthie
 
