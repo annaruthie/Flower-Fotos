@@ -9,7 +9,7 @@ permalink: /plantscritters.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Browse Plants and Critters
 
 This word cloud allows browsing of the different types of plants and tiny animals in the collection.
 Word size is determined by frequency and all words link to a corresponding collection search.
